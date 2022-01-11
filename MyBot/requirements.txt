@@ -1,0 +1,8 @@
+aiogram==2.14.3
+aiogram-calendar==0.1.1
+configparser==5.1.0
+dnspython==1.16.0
+pymongo==3.12.0
+pyTelegramBotAPI==3.7.9
+requests==2.25.1
+requests-toolbelt==0.9.1
